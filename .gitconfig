@@ -1,0 +1,14 @@
+[user]
+	name = danig
+	email = danielgo567@gmail.com
+[core]
+	editor = vim
+[alias]
+	st = status
+	lg = log
+	co = checkout
+	cob = checkout -b
+	branch-name = rev-parse --abbrev-ref HEAD
+	br = branch
+	am = commit -a --amend
+	rad = remote add origin
