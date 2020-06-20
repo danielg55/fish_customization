@@ -5,7 +5,6 @@ alias tmux='tmux -u'
 alias ipython='python -m IPython'
 
 # ls aliases
-# some more ls aliases
 alias ll='ls -AlFh'
 alias la='ls -A'
 alias l='ls -CF'
